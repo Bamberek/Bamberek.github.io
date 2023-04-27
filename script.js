@@ -16,6 +16,6 @@ var x = setInterval(function () {
   // If the count down is over, write some text
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "0d 0h 0m 0s";
+    document.getElementById("demo").innerHTML = "0d 7h 0m 0s";
   }
 }, 1000);
