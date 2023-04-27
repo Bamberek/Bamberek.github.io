@@ -1,0 +1,63 @@
+body {
+  background-color: rgb(51, 50, 50);
+  text-align: center;
+  color: white;
+}
+div {
+  margin: 15px;
+  padding: 15px;
+}
+h1 {
+  font-size: 3rem;
+  margin: 0;
+  padding: 0;
+}
+p {
+  margin: 0;
+  padding: 0;
+  font-size: 3rem;
+  color: white;
+}
+
+img {
+  margin: 30px;
+  width: 70%;
+  height: auto;
+}
+.img-container {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.img-patrox {
+  position: absolute;
+  width: 15%;
+  top: 20%;
+  left: 55%;
+}
+.warning {
+  color: red;
+  font-size: 1.5rem;
+}
+ol {
+  text-align: left;
+}
+a {
+  text-decoration: none;
+}
+.google-map {
+  padding-bottom: 0;
+  position: relative;
+}
+
+.google-map iframe {
+  height: 80%;
+  width: 80%;
+  left: 0;
+  top: 0;
+  position: absolute;
+}
+.col {
+  margin: 0;
+  padding: 0;
+}
