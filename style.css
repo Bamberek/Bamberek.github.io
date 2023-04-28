@@ -21,8 +21,7 @@ p {
 
 img {
   margin: 30px;
-  width: 85%;
-  max-width: 1000px;
+  width: 85%; 
   height: auto;
 }
 .img-container {
