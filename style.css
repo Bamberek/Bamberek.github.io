@@ -21,7 +21,8 @@ p {
 
 img {
   margin: 30px;
-  width: 70%;
+  width: 80%;
+  max-width: 1500px;
   height: auto;
 }
 .img-container {
@@ -32,7 +33,7 @@ img {
 .img-patrox {
   position: absolute;
   width: 15%;
-  top: 20%;
+  top: 25%;
   left: 55%;
 }
 .warning {
