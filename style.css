@@ -21,8 +21,8 @@ p {
 
 img {
   margin: 30px;
-  width: 90%;
-  max-width: 1300px;
+  width: 85%;
+  max-width: 1200px;
   height: auto;
 }
 .img-container {
@@ -63,6 +63,6 @@ a {
   padding: 0;
 }
 .img-konon {
-  width: 80%;
+  width: 75%;
   max-width: 800px;
 }
